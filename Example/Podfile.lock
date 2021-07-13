@@ -1,0 +1,16 @@
+PODS:
+  - HCDesignKit (0.1.0)
+
+DEPENDENCIES:
+  - HCDesignKit (from `../`)
+
+EXTERNAL SOURCES:
+  HCDesignKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HCDesignKit: 2a8995d4c37db06816cfd7a42869bd3a6eb0184d
+
+PODFILE CHECKSUM: 3a02921eb3bc61547dd9bd5a3d7281715017f898
+
+COCOAPODS: 1.10.1
