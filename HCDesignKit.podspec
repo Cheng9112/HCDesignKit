@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/Cheng9112/HCDesignKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '陈鸿城' => 'chenhc2@yunjiglobal.com' }
+  s.author           = { '陈鸿城' => 'cheng9112@icloud.com' }
   s.source           = { :git => 'https://github.com/Cheng9112/HCDesignKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
