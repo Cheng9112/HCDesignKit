@@ -22,7 +22,7 @@ pod 'HCDesignKit'
 
 ## Author
 
-陈鸿城, chenhc2@yunjiglobal.com
+cheng
 
 ## License
 
